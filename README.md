@@ -44,7 +44,7 @@ To install the project, you will need [CMake](https://cmake.org/) and `libsndfil
 
 1. Clone the repository:
     ```sh
-    git clone <your_repository_url>
+    git clone https://github.com/EternalProg/Sound-Trimmer
     cd Sound-Trimmer
     ```
 
